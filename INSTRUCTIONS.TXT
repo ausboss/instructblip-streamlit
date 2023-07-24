@@ -1,0 +1,3 @@
+run first time installer bat
+
+after that just run the run.bat when you want to start it

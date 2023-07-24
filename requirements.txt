@@ -1,0 +1,4 @@
+langchain
+streamlit
+quart
+transformers
